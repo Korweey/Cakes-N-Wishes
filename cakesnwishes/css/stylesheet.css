@@ -1,0 +1,98 @@
+body{
+	background-image: url(../img/images1.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	/*background-color: #F5FBFA;*/
+	width:100%;
+	height: 100%;
+	margin:0;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: yellow;
+}
+h1{
+	font-family:Papyrus, fantasy;
+	color:#F310E5;
+	text-align: center;
+	font-size: 50px;
+}
+h4, p, footer{
+	font-family: "Brush Script MT", "cursive";
+	color:#B989F2;
+	text-align:center;
+	font-size: 25px;
+}
+.container{
+	width:100%;
+	height: 100%;
+}
+.logo{
+	width: 300px;
+	height:120px;
+	margin-left: 39%;
+	margin-right: 40%;
+	margin-top: -5px;
+	margin-bottom: 20px;
+	border-radius: 35%;
+}
+.leftpane{
+	width: 23%;
+	height: 100%;
+	float: left;
+	background-color: #F5FBFA;
+}
+.middlepane{
+	width: 50%;
+	height: 100%;
+	float: none;
+	margin-left: 25%;
+	background-color: #F5FBFA;
+}
+.rightpane{
+	width: 23%;
+	height: 100%;
+	float: right;
+	margin-top: -65.5%;
+	background-color: #F5FBFA;
+}
+.centercake{
+	width:80%;
+	height:150%;
+	margin-left:60px;
+	margin-top:60px;
+}
+img{
+	width:150px;
+	height: 150px;
+	margin-top: 30px;
+	margin-left: 70px;
+	
+}
+button{
+	opacity: 0.7;
+    width: 60%;
+    height: 60px;
+    background-color: red;
+    color:#fff;
+    text-align: center;
+    margin-left: 138px;
+    margin-top: 20px;
+    border-radius: 5%;
+    border-color: #717574;
+}
+footer{
+	margin-top: 30px;
+	color: #595155;
+}
+
+
+
+
+
+
+@media all and (min-width: 320px) and (max-width: 1400px){
+
+}
